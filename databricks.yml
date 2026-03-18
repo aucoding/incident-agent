@@ -1,0 +1,7 @@
+name: incident-copilot
+description: AI-powered incident management for Databricks
+
+resources:
+  apps:
+    incident-copilot:
+      description: Incident Copilot UI
